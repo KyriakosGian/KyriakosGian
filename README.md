@@ -14,6 +14,23 @@ I have experience working with a range of programming languages and tools, inclu
 
 I also have experience using software such as JetBrains PhpStorm, Visual Studio Code, Git, MySql Workbench, FileZilla, NotePad++, Docker, Tableau, SAP & BW, EnterSoft, MS Office, and PhotoShop.
 
+#	Hardware and System Administration Skills
+
+In addition to my programming experience, I also have experience in computer and server administration, including:
+
+- Installation and configuration of operating systems (Windows, Linux)
+- Maintenance of hardware components (e.g. replacing or upgrading RAM, hard drives, etc.)
+- Troubleshooting and resolving software and hardware issues
+- Setting up and configuring network devices, including routers, switches, and firewalls
+
+#	Networking Knowledge
+
+I have a strong understanding of networking principles and protocols, including:
+
+- TCP/IP, DNS, DHCP, HTTP, HTTPS, FTP, SMTP
+- LAN, WAN, VPN
+- Routing and switching
+
 # Areas of Expertise
 I specialize in Full Stack Development, Progressive Web Applications (PWA), ECommerce & CMS, SEO & Advertisement, Data Analysis, and Online Business Consulting. I'm a member of the ProCreta team and have worked on a variety of projects, including example project 1 and example project 2.
 
