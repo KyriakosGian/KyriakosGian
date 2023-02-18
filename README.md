@@ -20,8 +20,8 @@ In addition to my programming experience, I also have experience in computer and
 
 - Installation and configuration of operating systems (Windows, Linux)
 - Maintenance of hardware components (e.g. replacing or upgrading RAM, hard drives, etc.)
-- Troubleshooting and resolving software and hardware issues
-- Setting up and configuring network devices, including routers, switches, and firewalls
+- Troubleshooting and resolving software and hardware issues.
+- Setting up and configuring network devices, including routers, switches, and firewalls.
 
 #	Networking Knowledge
 
@@ -32,7 +32,7 @@ I have a strong understanding of networking principles and protocols, including:
 - Routing and switching
 
 # Areas of Expertise
-I specialize in Full Stack Development, Progressive Web Applications (PWA), ECommerce & CMS, SEO & Advertisement, Data Analysis, and Online Business Consulting. I'm a member of the ProCreta team and have worked on a variety of projects, including example project 1 and example project 2.
+I specialize in Full Stack Development, Progressive Web Applications (PWA), ECommerce & CMS, SEO & Advertisement, Data Analysis, and Online Business Consulting. I'm a member of the ProCreta team and have worked on a variety of projects.
 
 # Current Focus
 Currently, I'm focusing on improving my skills in PHP & JavaScript for web development. I'm always looking for new challenges and opportunities to collaborate with others.
