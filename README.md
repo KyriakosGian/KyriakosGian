@@ -1,7 +1,9 @@
-#👋 Hi, I’m @KyriakosG78
+#👋 Hi there!
+
 My name is Kyriakos and I'm an Application & Web Developer with a passion for technology. I enjoy learning about new programming languages and tools, and I'm always looking for ways to improve my skills.
 
 #	Programming Experience
+
 I have experience working with a range of programming languages and tools, including:
 
 - HTML - CSS - Bootstrap
