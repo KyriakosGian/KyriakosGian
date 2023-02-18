@@ -9,13 +9,10 @@ I have experience working with a range of programming languages and tools, inclu
 - HTML - CSS - Bootstrap
 - JavaScript
 - PHP
-- MySQL - SQL
-- VBA
-- MATLAB
-- Assembly
-- Joomla - WordPress
+- SQL
+- Joomla - WordPress 
 
-I also have experience using software such as Visual Studio Code, Git, JetBrains PhpStorm, MySql Workbench, FileZilla, NotePad++, Docker, Tableau, SAP & BW, EnterSoft, MS Office, and PhotoShop.
+I also have experience using software such as JetBrains PhpStorm, Visual Studio Code, Git, MySql Workbench, FileZilla, NotePad++, Docker, Tableau, SAP & BW, EnterSoft, MS Office, and PhotoShop.
 
 # Areas of Expertise
 I specialize in Full Stack Development, Progressive Web Applications (PWA), ECommerce & CMS, SEO & Advertisement, Data Analysis, and Online Business Consulting. I'm a member of the ProCreta team and have worked on a variety of projects, including example project 1 and example project 2.
