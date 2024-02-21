@@ -10,7 +10,7 @@ I have experience working with a range of programming languages and tools, inclu
 - JavaScript
 - PHP
 - SQL
-- Joomla - WordPress 
+- WordPress 
 
 I also have experience using software such as JetBrains PhpStorm, Visual Studio Code, Git, MySql Workbench, FileZilla, NotePad++, Docker, Tableau, SAP & BW, EnterSoft, MS Office, and PhotoShop.
 
