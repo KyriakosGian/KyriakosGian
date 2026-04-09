@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile! | KyriakosGian
+# 👋 Welcome to my profile! KyriakosGian
 
 I am a technology professional transitioning from years of experience in Business & Floor Management to IT, Software Development, and AI Automation. Currently in my senior year of my BSc in Computer Science, my goal is to bridge the gap between commercial needs and technological solutions using data-driven apps and automated workflows.
 
@@ -26,7 +26,7 @@ Beyond software development, I possess a strong foundation in IT infrastructure 
 * **[sarlist.org](https://sarlist.org):** A web platform featuring custom database integrations and a robust PHP backend.
 * **AI Chrome Extensions & WP Plugins:** Developed specialized tools for connecting databases with AI-powered functionalities.
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 I'm always open to discussing how emerging technologies can solve real-world business challenges.
 * **Blog & Tutorials:** [giannoulakis.gr](https://giannoulakis.gr)
 * **IT Services / Agency:** [procreta.gr](https://procreta.gr)
