@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile! KyriakosGian
 
-I am a technology professional transitioning from years of experience in Business & Floor Management to IT, Software Development, and AI Automation. Currently in my senior year of my BSc in Computer Science, my goal is to bridge the gap between commercial needs and technological solutions using data-driven apps and automated workflows.
+I am an Application & Web Developer and IT Automation Specialist with a BSc in Computer Science. My passion lies in building data-driven web applications, designing smart AI workflows, and managing robust IT infrastructures. I focus on delivering functional, scalable, and modern technological solutions that bridge the gap between complex data and seamless user experiences.
 
 ## 🚀 Core Focus & Interests
 * **AI Integration & Automation:** Building workflows and custom tools using AI (Google AI Studio, LLMs, Antigravity, n8n, Ollama).
