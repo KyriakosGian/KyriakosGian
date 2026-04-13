@@ -30,3 +30,7 @@ Beyond software development, I possess a strong foundation in IT infrastructure 
 I'm always open to discussing how emerging technologies can solve real-world business challenges.
 * **Blog & Tutorials:** [giannoulakis.gr](https://giannoulakis.gr)
 * **IT Services / Agency:** [procreta.gr](https://procreta.gr)
+
+## 📈 GitHub Stats
+![Kyriakos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyriakosGian&show_icons=true&theme=transparent&hide_border=true&title_color=1F883D&icon_color=1F883D&text_color=24292F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyriakosGian&layout=compact&theme=transparent&hide_border=true&title_color=1F883D&text_color=24292F)
